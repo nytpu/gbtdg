@@ -7,7 +7,7 @@ Gameboy Tile Data Generator (gbtdg) is a HTML5 / JS web application that can con
 
 Website
 =======
-http://www.chrisantonellis.com/gameboy/gbtdg
+https://nytpu.github.io/gbtdg/
 
 
 Changelog
